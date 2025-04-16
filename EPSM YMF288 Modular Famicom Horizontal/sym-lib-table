@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EPSM YMF288 Modular Famicom Horizontal")(type "KiCad")(uri "${KIPRJMOD}/EPSM YMF288 Modular Famicom Horizontal.kicad_sym")(options "")(descr ""))
+)
