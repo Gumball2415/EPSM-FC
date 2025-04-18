@@ -5,7 +5,7 @@
 	(uuid "3db4eb90-e4e1-4733-b3b2-7f2c3f1374f1")
 	(paper "A4")
 	(title_block
-		(title "Expansion Port Sound Module - Modular Famicom H Connector")
+		(title "EPSM - Modular Famicom H Connector")
 		(date "2025-04-17")
 		(rev "r0.1.0")
 		(company "Persune")
