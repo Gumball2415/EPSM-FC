@@ -730,13 +730,13 @@
         "uuid": "25477a34-fff0-4599-bbd2-3b73183efe19"
       }
     ],
-    "used_designators": "U1-19,C1-23,#FLG1-2,#PWR1-2,J1-2,TP1,JP1-6,R1-3",
+    "used_designators": "U1-19,D1,C1-23,#FLG1-2,#PWR1-2,J1-2,TP1,JP1-6,R1-4",
     "variants": []
   },
   "sheets": [
     [
       "25477a34-fff0-4599-bbd2-3b73183efe19",
-      "EPSM YMF288 Modular Famicom Horizontal Daughterboard"
+      "EPSM-FC Decoder Daughterboard"
     ]
   ],
   "text_variables": {
