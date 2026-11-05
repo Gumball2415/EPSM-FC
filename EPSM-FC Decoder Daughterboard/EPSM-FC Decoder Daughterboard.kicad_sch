@@ -8838,7 +8838,7 @@
 	)
 	(text "<:3 )~"
 		(exclude_from_sim no)
-		(at 165.1 190.5 0)
+		(at 170.18 162.56 0)
 		(effects
 			(font
 				(face "Comic Neue")
@@ -9507,7 +9507,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 124.46) (xy 132.08 124.46)
+			(xy 144.78 109.22) (xy 132.08 109.22)
 		)
 		(stroke
 			(width 0)
@@ -9727,7 +9727,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 111.76) (xy 116.84 111.76)
+			(xy 106.68 127) (xy 116.84 127)
 		)
 		(stroke
 			(width 0)
@@ -9807,7 +9807,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 106.68) (xy 116.84 106.68)
+			(xy 106.68 121.92) (xy 116.84 121.92)
 		)
 		(stroke
 			(width 0)
@@ -10174,6 +10174,16 @@
 			(type default)
 		)
 		(uuid "5050d865-dfeb-4458-9639-46d73bec981d")
+	)
+	(wire
+		(pts
+			(xy 149.86 127) (xy 149.86 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "515833a7-7565-49d9-bfc7-3fc768dee497")
 	)
 	(wire
 		(pts
@@ -11217,7 +11227,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 127) (xy 116.84 127)
+			(xy 106.68 111.76) (xy 116.84 111.76)
 		)
 		(stroke
 			(width 0)
@@ -11237,7 +11247,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 109.22) (xy 132.08 109.22)
+			(xy 132.08 124.46) (xy 149.86 124.46)
 		)
 		(stroke
 			(width 0)
@@ -11707,7 +11717,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 121.92) (xy 116.84 121.92)
+			(xy 106.68 106.68) (xy 116.84 106.68)
 		)
 		(stroke
 			(width 0)
@@ -12526,7 +12536,7 @@
 		(uuid "ff9b936a-9321-444e-a844-e2f0f0611f83")
 	)
 	(label "$40xx_W_~{CE}"
-		(at 106.68 121.92 0)
+		(at 106.68 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13056,7 +13066,7 @@
 		(uuid "2ea47529-aa39-40d7-87cd-e0ecb1998c43")
 	)
 	(label "$40xx_W_~{CE}"
-		(at 106.68 106.68 0)
+		(at 106.68 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13796,7 +13806,7 @@
 		(uuid "5ef15662-9af1-469b-8ed5-721a02cc030a")
 	)
 	(label "$4016_W_~{CE}"
-		(at 144.78 109.22 180)
+		(at 144.78 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13816,7 +13826,7 @@
 		(uuid "60bd9bcf-1338-465b-83b5-8d789879e093")
 	)
 	(label "$401CFW~{CE}"
-		(at 144.78 124.46 180)
+		(at 144.78 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14364,16 +14374,6 @@
 			(justify left bottom)
 		)
 		(uuid "846727ba-7064-41b0-953f-c87d19917a24")
-	)
-	(label "$4016_W_~{CE}"
-		(at 149.86 127 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "88031934-f8a6-4b8d-b01a-29b7f23d3285")
 	)
 	(label "$4016_P"
 		(at 279.4 43.18 0)
@@ -14946,7 +14946,7 @@
 		(uuid "bfb5b1c8-3803-4756-bc4a-92125a012703")
 	)
 	(label "$401C-F_~{CE}"
-		(at 106.68 127 0)
+		(at 106.68 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15376,7 +15376,7 @@
 		(uuid "ddd0588a-710a-4e21-bf01-f5383c715a1d")
 	)
 	(label "$4016_~{CE}"
-		(at 106.68 111.76 0)
+		(at 106.68 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16601,7 +16601,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 124.46 124.46 0)
+		(at 124.46 109.22 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16611,7 +16611,7 @@
 		(dnp no)
 		(uuid "1aa59461-ccea-4bf2-aa30-9fedc148953e")
 		(property "Reference" "U8"
-			(at 124.46 116.84 0)
+			(at 124.46 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16621,7 +16621,7 @@
 			)
 		)
 		(property "Value" "74HC32"
-			(at 124.46 119.38 0)
+			(at 124.46 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16631,7 +16631,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 124.46 124.46 0)
+			(at 124.46 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16642,7 +16642,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5632.pdf"
-			(at 124.46 124.46 0)
+			(at 124.46 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16653,7 +16653,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 124.46 124.46 0)
+			(at 124.46 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16664,7 +16664,7 @@
 			)
 		)
 		(property "LCSC" "C5632"
-			(at 124.46 124.46 0)
+			(at 124.46 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19102,7 +19102,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74LS32")
-		(at 124.46 109.22 0)
+		(at 124.46 124.46 0)
 		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19112,7 +19112,7 @@
 		(dnp no)
 		(uuid "7332e0e8-db99-4787-a44b-acdd4acb436c")
 		(property "Reference" "U8"
-			(at 124.46 101.6 0)
+			(at 124.46 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19122,7 +19122,7 @@
 			)
 		)
 		(property "Value" "74HC32"
-			(at 124.46 104.14 0)
+			(at 124.46 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19132,7 +19132,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 124.46 109.22 0)
+			(at 124.46 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19143,7 +19143,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5632.pdf"
-			(at 124.46 109.22 0)
+			(at 124.46 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19154,7 +19154,7 @@
 			)
 		)
 		(property "Description" "Quad 2-input OR"
-			(at 124.46 109.22 0)
+			(at 124.46 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19165,7 +19165,7 @@
 			)
 		)
 		(property "LCSC" "C5632"
-			(at 124.46 109.22 0)
+			(at 124.46 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
